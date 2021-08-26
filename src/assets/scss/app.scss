@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+.test-class {
+    @apply text-green-800;
+
+    p {
+        @apply text-red-800;
+    }
+}
+
+@tailwind utilities;
