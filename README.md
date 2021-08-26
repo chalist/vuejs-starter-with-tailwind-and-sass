@@ -1,4 +1,4 @@
-# Vuejs start with Tailwind and SCSS
+# Vuejs start with Tailwind and SASS
 
 ## Project setup
 
